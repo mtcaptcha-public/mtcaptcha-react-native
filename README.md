@@ -1,6 +1,6 @@
-# MTcaptcha Sample ReactNative Project
+# MTCaptcha Sample ReactNative Project
 
-This README provides step-by-step instructions to set up a MTcaptcha project on  Mac machine.
+This README provides step-by-step instructions to set up a MTCaptcha project.
 
 ## Prerequisites
 
@@ -74,8 +74,6 @@ To run the Android app, open a terminal window, navigate to the project director
 `npx react-native run-android`
 
 This will build and launch the Android app on your emulator or device.
-
-Congratulations! You've successfully set up and run your React Native app on macOS.
 
 # Troubleshooting
 
